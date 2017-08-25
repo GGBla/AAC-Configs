@@ -1,4 +1,4 @@
-# AAC-Configs 1.8.8 Version + AACAddition
+# AAC-Configs 1.8.8 Version
 
 _***REQUIREMENTS***_
 * Spigot/PaperSpigot/TacoSpigot 1.8.8
