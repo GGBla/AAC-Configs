@@ -95,7 +95,6 @@ We would like to remind you that this build is ONLY for Spigot 1.8.8 AND ONLY AA
 	* hypixelban.reload - /advancedban reload
 	* hypixelban.help - /advancedban help
 	* hypixelban.systemprefs - /systemprefs
-	* 
 * AAC:
 	* AAC.crash - /aaccrash
 	* AAC.bypass - Bypass AAC's checks
@@ -107,7 +106,6 @@ We would like to remind you that this build is ONLY for Spigot 1.8.8 AND ONLY AA
 	* AAC.debug - /aacdebug
 	* AAC.notify - /aacstaffnotify
 	* AAC.message - /aacmessage
-	* 
 * BanWaves:
 	* banwave.add - /banwave add
 	* banwave.remove - /banwave remove
@@ -115,6 +113,5 @@ We would like to remind you that this build is ONLY for Spigot 1.8.8 AND ONLY AA
 	* banwave.off - /banwave off
 	* banwave.execute - /banwave execute
 	* banwave.reload - /banwave reload
-	* 
 * WatchdogReport:
 	* AAC.notify - Get notified when a user reports another user
