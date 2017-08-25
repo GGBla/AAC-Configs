@@ -10,12 +10,15 @@ AACAddition 0.8.2 (1.8.8 Version)
 ProtocolLib
 
 
+
+**INFO**
 Hey!
 
 Thanks for using this version of our Watchdog remake project!
 
-
 We would like to remind you that this build is ONLY for Spigot 1.8.8 AND ONLY AAC 1.9.10.
+
+
 
 
 **Ban reason codes:**
