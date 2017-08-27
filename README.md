@@ -1,5 +1,20 @@
-# AAC-Configs
-AAC's (Watchdog) config.yml and language.yml
+# AAC + AACAdditionPro - Configs
+AAC's (Watchdog) config.yml and language.yml + AACAdditionPro's config.yml
+
+**AAC Perms:**
++ AAC.bypass - Bypass AAC's checks
++ AAC.verbose - Receive detailed information on suspected players
++ AAC.unban - /aacunban
++ AAC.ban - /aacban
++ AAC.kick - /aackick
++ AAC.admin - /aacadmin & /aacreload
++ AAC.debug - /aacdebug
++ AAC.notify - /aacstaffnotify
++ AAC.message - /aacmessage
++ AAC.restorechunk - /aacrestorechunk
+
+**AACAdditionPro Perms:**
++ aacadditionpro.info - /aacadditionpro info
 
 **Bancodes:**
 + CR-216111 - HitBox
