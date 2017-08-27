@@ -1,0 +1,40 @@
+# __          __   _       _         _               _____                          _      
+# \ \        / /  | |     | |       | |             |  __ \                        | |     
+#  \ \  /\  / /_ _| |_ ___| |__   __| | ___   __ _  | |__) |___ _ __ ___   __ _  __| | ___ 
+#   \ \/  \/ / _` | __/ __| '_ \ / _` |/ _ \ / _` | |  _  // _ \ '_ ` _ \ / _` |/ _` |/ _ \
+#    \  /\  / (_| | || (__| | | | (_| | (_) | (_| | | | \ \  __/ | | | | | (_| | (_| |  __/
+#     \/  \/ \__,_|\__\___|_| |_|\__,_|\___/ \__, | |_|  \_\___|_| |_| |_|\__,_|\__,_|\___|
+#                                             __/ |                                        
+#                                            |___/                                         
+# By ItzSomebody and NulledXenforo
+# AAC Config by NulledXenforo
+
+# AAC messages configuration file
+
+# Prefix (wooooo yeah)
+prefix: "&f[WATCHDOG] "
+
+# Spam messages
+spam_too_fast: "You can't chat that fast!"
+spam_slow_chat: "Please slow down chat"
+spam_repeat: "Please refrain from repeating yourself"
+spam_repeat_other: "You can't repeat that"
+
+# Command messages
+aac_kick_broadcast: " was kicked for hacking."
+ban_message: "You have been banned for hacking on this server."
+
+relog_message: "Wait a few seconds before logging back in."
+
+# Fastbow
+too_many_shots: "You're firing shots too quickly. Please wait 5 seconds before using your bow again."
+allow_bow: "You may now use your bow again"
+
+# Staff chat
+prefix_to_speak: ">"
+# This will also be used for the notifications from aacstaffnotify in the config
+format: "&f[WATCHDOG] &2[{sender}] &r"
+
+# Combat logging
+killed_for_logging: "You were killed for combat logging. Don't do it."
+logging_broadcast: "{player} was killed for combat logging. Don't do it."
