@@ -466,25 +466,23 @@ phase:
    # Items are included in this list due to potenital ViaVersion/cross version compatibility problems with 1.8
    # Should be entered exactly as seen on the Spigot Material enum.
    exclude:
-    - "AIR"
+   # Incorrect hitboxes in 1.8 servers
     - "ANVIL"
-    - "CARPET"
-    - "CARROT"
     - "CHEST"
-    - "CROPS"
     - "ENDER_CHEST"
-    - "LADDER"
-    - "LAVA"
-    - "PISTON_MOVING_PIECE"
-    - "POTATO"
-    - "SOIL"
-    - "STATIONARY_LAVA"
-    - "STATIONARY_WATER"   
     - "TRAPPED_CHEST"
+    - "SOIL"
+   # Entity hitboxes
+    - "AIR"
+    - "STATIONARY_WATER"
     - "WATER"
+    - "STATIONARY_LAVA"
+    - "LAVA"
+   # Protocol hack hitboxes
     - "WATER_LILY"
-    - "WHEAT"
-    - "VINE"
+   # Moving pistons
+    - "PISTON_MOVING_PIECE"
+    
    # Map of violation levels to commands
    thresholds:
       50:
